@@ -1,0 +1,6 @@
+# HW1 - ignore entirely
+HW1/
+
+# HW2 - ignore zip files and md files
+HW2/*.zip
+HW2/*.md
