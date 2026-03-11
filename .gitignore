@@ -1,5 +1,6 @@
 # HW1 - ignore entirely
 HW1/
+practice/
 
 # HW2 - ignore zip files and md files (except README)
 HW2/*.zip
