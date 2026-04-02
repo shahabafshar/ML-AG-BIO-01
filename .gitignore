@@ -6,3 +6,9 @@ practice/
 HW2/*.zip
 HW2/*.md
 !HW2/README.md
+
+# HW* - ignore zip files and md files (except README)
+HW*/*.zip
+HW*/*.md
+!HW*/README.md
+
