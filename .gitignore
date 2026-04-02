@@ -12,3 +12,4 @@ HW*/*.zip
 HW*/*.md
 !HW*/README.md
 
+DATA/
