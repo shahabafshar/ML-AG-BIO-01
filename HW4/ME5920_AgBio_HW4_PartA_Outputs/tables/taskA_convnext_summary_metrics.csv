@@ -1,0 +1,2 @@
+model,pretraining,trained_on_weed_dataset,test_loss,test_accuracy,num_test_images
+ConvNeXt-tiny,ImageNet,No,2.1205744472386017,0.21758994860079955,1751

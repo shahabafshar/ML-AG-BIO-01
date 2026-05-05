@@ -1,0 +1,2 @@
+Task,Dataset,Model,Pretraining,Weed dataset training used?,Number of classes,Test images,Test loss,Test accuracy,Test accuracy (%),Correct predictions,Incorrect predictions
+Task A,Rangeland Weeds Australia,ConvNeXt-tiny,ImageNet,No,9,1751,2.1206,0.2176,21.76,381,1370
